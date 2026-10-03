@@ -1,0 +1,16 @@
+  286  deactivate
+  287  which python3
+  288  cd
+  289  man ls
+  290  ls -h
+  291  man ls
+  292  man man
+  293  cd coding-cafe/week01
+  294  cd
+  295  source .venv/bin/activate
+  296  history
+  297  python3
+  298  exit()\n\nexit()\n\n\n\n\ncd
+  299  history > weeko2/lab01-log.txt
+  300  cd
+  301  cd coding-cafe
